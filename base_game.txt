@@ -7,6 +7,11 @@ Bug fix: bug001
 assign animations
 Bug fix: bug002
 >>>>>>> create_UI_UX
+<<<<<<< HEAD
 intergrate Google Admob
 Bug fix: bug003
 intergrate Max Applovin service
+=======
+assign animations for characters
+music and sound effect in gameplay
+>>>>>>> enhance_gameplay
