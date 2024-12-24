@@ -9,3 +9,4 @@ Bug fix: bug002
 >>>>>>> create_UI_UX
 intergrate Google Admob
 Bug fix: bug003
+intergrate Max Applovin service
