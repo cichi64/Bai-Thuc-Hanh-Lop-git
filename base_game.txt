@@ -8,3 +8,4 @@ assign animations
 Bug fix: bug002
 >>>>>>> create_UI_UX
 intergrate Google Admob
+Bug fix: bug003
