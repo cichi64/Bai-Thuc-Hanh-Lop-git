@@ -1,4 +1,9 @@
 Base game
 Prototype version
+<<<<<<< HEAD
 assign gameplay-art
 Bug fix: bug001
+=======
+assign animations
+Bug fix: bug002
+>>>>>>> create_UI_UX
