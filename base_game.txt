@@ -8,3 +8,4 @@ assign animations
 Bug fix: bug002
 >>>>>>> create_UI_UX
 assign animations for characters
+music and sound effect in gameplay
